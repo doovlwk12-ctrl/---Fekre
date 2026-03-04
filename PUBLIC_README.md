@@ -138,46 +138,18 @@ Supporting tools: react-hook-form, zod, SWR, lucide-react. Arabic typography: **
 
 </div>
 
----
-
-<div dir="rtl">
-
-## لقطات الواجهة (Placeholders) | UI Screenshots
-
-الواجهة تستخدم خط **Tajawal** وألوان الهوية المعمارية (وضع نهاري/ليلي). يمكن إضافة لقطات شاشة هنا بعد التقاطها من المشروع.
-
-</div>
 
 The UI uses **Tajawal** and a consistent light/dark palette.
 
 **Live project links (to be updated by you):**
 
 - Production (Vercel): `https://your-fekra-app.vercel.app`
-- Source code (GitHub): `https://github.com/your-username/your-fekra-repo`
-
 Replace the placeholder URLs above with your real deployment and repository links.
 
 ---
 
 <div dir="rtl">
 
-## ملاحظة أمنية | Security Note
-
-- لا يُفترض أن يحتوي هذا الملف على مفاتيح API أو روابط قواعد بيانات أو أي متغيرات بيئية. إعداد التشغيل يتم عبر ملفات بيئة محلية غير مرفوعة.
-- التحقق من الهوية والصلاحيات يتم دائماً على الخادم؛ لا يتم الاعتماد على دور المستخدم من الواجهة فقط.
-- عمليات حساسة (مثل الدفع، تعيين المهندس، حذف الملفات المنتهية) محمية بتحقق من الدور والـ session أو token.
-- تفاصيل تنفيذ المصادقة والصلاحيات (دوال التحقق، التخزين المؤقت للدور، ربط الحسابات) لا تُكشف هنا للحفاظ على أمان المنصة.
-
-</div>
-
-- This README does **not** include API keys, database URLs, or environment variables. Runtime configuration is done via local env files that are not committed.
-- Authentication and authorization are enforced on the server; the UI does not alone determine access.
-- Sensitive operations (e.g. payment, engineer assignment, file cleanup) are guarded by role and session/token checks.
-- Implementation details of auth and role resolution are intentionally omitted to keep the production system secure.
-
----
-
-<div dir="rtl">
 
 ## الترخيص | License
 
@@ -186,3 +158,4 @@ Replace the placeholder URLs above with your real deployment and repository link
 </div>
 
 This project is for **portfolio** demonstration. Commercial use or redistribution may require permission from the project owner.
+
