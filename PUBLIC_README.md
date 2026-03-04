@@ -148,19 +148,14 @@ Supporting tools: react-hook-form, zod, SWR, lucide-react. Arabic typography: **
 
 </div>
 
-The UI uses **Tajawal** and a consistent light/dark palette. Add your own screenshots below after capturing them from the running app.
+The UI uses **Tajawal** and a consistent light/dark palette.
 
-| الصفحة / Page | الوصف / Description | لقطة / Screenshot |
-|---------------|---------------------|-------------------|
-| الصفحة الرئيسية / Home | الهيرو، الباقات، الأسئلة الشائعة | `![Home](docs/screenshots/home.png)` |
-| لوحة العميل / Client dashboard | قائمة الطلبات والإحصائيات | `![Client Dashboard](docs/screenshots/client-dashboard.png)` |
-| تفاصيل الطلب / Order detail | بيانات الطلب، المخططات، المحادثة | `![Order Detail](docs/screenshots/order-detail.png)` |
-| لوحة المهندس / Engineer dashboard | الطلبات المعينة والمهام | `![Engineer Dashboard](docs/screenshots/engineer-dashboard.png)` |
-| لوحة الإدارة / Admin dashboard | الإحصائيات وإدارة الباقات | `![Admin Dashboard](docs/screenshots/admin-dashboard.png)` |
+**Live project links (to be updated by you):**
 
-*إنشاء مجلد `docs/screenshots/` ووضع الصور ثم استبدال المسارات أعلاه بالمسارات الفعلية.*
+- Production (Vercel): `https://your-fekra-app.vercel.app`
+- Source code (GitHub): `https://github.com/your-username/your-fekra-repo`
 
-*Create a `docs/screenshots/` folder, add your images, then replace the paths above with the actual paths.*
+Replace the placeholder URLs above with your real deployment and repository links.
 
 ---
 
